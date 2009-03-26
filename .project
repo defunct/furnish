@@ -1,0 +1,13 @@
+<projectDescription>
+  <name>furnish</name>
+  <comment>A service loader implementation for Java 1.5.</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
