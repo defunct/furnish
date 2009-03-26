@@ -86,6 +86,11 @@ public class Furnish<S> implements Iterable<S>
         }
     }
     
+    /**
+     * Return an iterator over the implementations of the service.
+     * 
+     * @return An iterator over the service implementations.
+     */
     public Iterator<S> iterator()
     {
         return services.iterator();
